@@ -1,10 +1,10 @@
-# Food for All
+# Meal Mission
 
-Food for All is a platform dedicated to combating food waste, supporting communities in need, and promoting sustainability. Our project aims to bridge the gap between surplus food providers, volunteers, and those facing food insecurity, leveraging technology to facilitate efficient redistribution of surplus food.
+Meal Mission is a platform dedicated to combating food waste, supporting communities in need, and promoting sustainability. Our project aims to bridge the gap between surplus food providers, volunteers, and those facing food insecurity, leveraging technology to facilitate efficient redistribution of surplus food.
 
 ## Inspiration
 
-The inspiration for Food for All came from a profound realization of the immense food waste occurring daily, juxtaposed with the prevalence of hunger in many communities. We were moved to take action and create a solution that addresses these pressing issues while promoting community collaboration and empowerment.
+The inspiration for Meal Mission came from a profound realization of the immense food waste occurring daily, juxtaposed with the prevalence of hunger in many communities. We were moved to take action and create a solution that addresses these pressing issues while promoting community collaboration and empowerment.
 
 ## Features
 
